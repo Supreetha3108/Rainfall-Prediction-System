@@ -1,24 +1,25 @@
 # Rainfall Prediction System
 
-Machine Learning based rainfall prediction system using XGBoost.
+Machine Learning based rainfall prediction using XGBoost and Streamlit.
 
 ## Features
+- Rainfall Prediction
+- XGBoost Model
+- Interactive Dashboard
+- Streamlit Deployment
 
-- Predict rainfall probability
-- Professional dashboard
-- XGBoost Machine Learning Model
-- Streamlit Web Application
+## Accuracy
+84.34%
 
-## Technologies Used
-
+## Tech Stack
 - Python
 - Pandas
-- Scikit Learn
+- Scikit-Learn
 - XGBoost
 - Streamlit
 
-## Run Project
+## Live Demo
+https://rainfall-prediction-system-acip8rqcba74nz5jpoqraf.streamlit.app/
 
-pip install -r requirements.txt
-
-streamlit run app/app.py
+## Dataset
+Australian Weather Dataset
